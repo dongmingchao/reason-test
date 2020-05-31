@@ -1,0 +1,5 @@
+(executable
+ (name Hello)
+ (public_name Hello)
+ (libraries console.lib lib lwt lwt.unix lablgtk2)
+)
